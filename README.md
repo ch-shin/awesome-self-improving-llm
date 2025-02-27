@@ -10,10 +10,14 @@ Well, I was gonna make this page using DeepResearch or Grok-3, but they are cert
   - Jiaxin Huang, Shixiang Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han. *EMNLP'23*
 - **LM vs LM: Detecting Factual Errors via Cross Examination** [[pdf]](https://aclanthology.org/2023.emnlp-main.778.pdf)
   - Roi Cohen, May Hamri, Mor Geva, Amir Globerson. *EMNLP'23*
+- **Self‑Instruct: Aligning Language Models with Self‑Generated Instructions** [[pdf]](https://arxiv.org/pdf/2212.10560)
+  - Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi. *ACL'23*
 - **Reflexion: Language Agents with Verbal Reinforcement Learning** [[pdf]](https://openreview.net/pdf?id=vAElhFcKW6)
   - Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao. *NeurIPS'23*
 - **Self-Refine: Iterative Refinement with Self-Feedback** [[pdf]](https://arxiv.org/pdf/2303.17651)
   - Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank Gupta, Bodhisattwa Prasad Majumder, Katherine Hermann, Sean Welleck, Amir Yazdanbakhsh, Peter Clark. *NeurIPS'23*
+- **Self-Evaluation Guided Beam Search for Reasoning** [[pdf]](https://arxiv.org/pdf/2305.00633)
+  - Yuxi Xie, Kenji Kawaguchi, Yiran Zhao, Xu Zhao, Min-Yen Kan, Junxian He, Qizhe Xie. *NeurIPS'23*
 - **Self‑Rewarding Language Models** [[pdf]](https://arxiv.org/pdf/2401.10020)
   - Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Xian Li, Sainbayar Sukhbaatar, Jing Xu, Jason Weston. *ICML'24*
 - **Large Language Models Cannot Self-Correct Reasoning Yet** [[pdf]](https://openreview.net/pdf?id=IkmD3fKBPQ)

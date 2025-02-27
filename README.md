@@ -24,6 +24,8 @@ Well, I was gonna make this page using DeepResearch or Grok-3, but they are cert
   - Loka Li, Guangyi Chen, Yusheng Su, Zhenhao Chen, Yixuan Zhang, Eric Xing, Kun Zhang. *arXiv'24* 
 - **Self-Improvement in Language Models: The Sharpening Mechanism** [[pdf]](https://arxiv.org/pdf/2412.01951)
   - Audrey Huang, Adam Block, Dylan J. Foster, Dhruv Rohatgi, Cyril Zhang, Max Simchowitz, Jordan T. Ash, Akshay Krishnamurthy. *ICLR'25*
+- **Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains** [[pdf]](https://arxiv.org/pdf/2501.05707)
+  - Vighnesh Subramaniam, Yilun Du, Joshua B. Tenenbaum, Antonio Torralba, Shuang Li, Igor Mordatch. *ICLR'25*
 - **Iterative Deepening Sampling for Large Language Models** [[pdf]](https://arxiv.org/pdf/2502.05449)
   - Weizhe Chen, Sven Koenig, Bistra Dilkina. *arXiv'25*
 

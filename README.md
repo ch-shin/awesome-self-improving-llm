@@ -32,6 +32,8 @@ Well, I was gonna make this page using DeepResearch or Grok-3, but they are cert
   - Vighnesh Subramaniam, Yilun Du, Joshua B. Tenenbaum, Antonio Torralba, Shuang Li, Igor Mordatch. *ICLR'25*
 - **Iterative Deepening Sampling for Large Language Models** [[pdf]](https://arxiv.org/pdf/2502.05449)
   - Weizhe Chen, Sven Koenig, Bistra Dilkina. *arXiv'25*
+- **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery** [[pdf]](https://arxiv.org/abs/2604.01658) [[code]](https://github.com/Human-Agent-Society/CORAL)
+  - Ao Qu, Han Zheng, Zijian Zhou, Yihao Yan, Yihong Tang, Shao Yong Ong, Fenglu Hong, Kaichen Zhou, Chonghe Jiang, Minwei Kong, Jiacheng Zhu, Xuan Jiang, Sirui Li, Cathy Wu, Bryan Kian Hsiang Low, Jinhua Zhao, Paul Pu Liang. *arXiv'26*
 
 ## Other awesome-selves
 - **Awesome-LLM-Self-Improvement** [[link]](https://github.com/dongxiangjue/Awesome-LLM-Self-Improvement)

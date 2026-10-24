@@ -26,6 +26,8 @@ Well, I was gonna make this page using DeepResearch or Grok-3, but they are cert
   - Xinyun Chen, Maxwell Lin, Nathanael Schärli, Denny Zhou. *ICLR'24*
 - **Confidence Matters: Revisiting Intrinsic Self-Correction Capabilities of Large Language Models** [[pdf]](https://arxiv.org/pdf/2402.12563v3)
   - Loka Li, Guangyi Chen, Yusheng Su, Zhenhao Chen, Yixuan Zhang, Eric Xing, Kun Zhang. *arXiv'24* 
+- **Translate-and-Revise: Boosting Large Language Models for Constrained Translation** [[pdf]](https://aclanthology.org/2024.ccl-1.82.pdf)
+  - Pengcheng Huang, Yongyu Mu, Yuzhang Wu, Bei Li, Chunyang Xiao, Tong Xiao, Jingbo Zhu. *CCL'24*
 - **Self-Improvement in Language Models: The Sharpening Mechanism** [[pdf]](https://arxiv.org/pdf/2412.01951)
   - Audrey Huang, Adam Block, Dylan J. Foster, Dhruv Rohatgi, Cyril Zhang, Max Simchowitz, Jordan T. Ash, Akshay Krishnamurthy. *ICLR'25*
 - **Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains** [[pdf]](https://arxiv.org/pdf/2501.05707)
